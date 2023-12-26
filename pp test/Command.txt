@@ -1,0 +1,25 @@
+goto 10 3
+enter
+ctrl backspace
+ctrl down
+ctrl down
+del
+del
+del
+up
+right
+right
+right
+up
+down
+ctrl right
+ctrl right
+ctrl up
+ctrl up
+ctrl up
+backspace
+del
+ctrl backspace
+ctrl del
+ins
+enter
